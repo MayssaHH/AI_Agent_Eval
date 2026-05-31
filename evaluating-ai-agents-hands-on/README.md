@@ -10,6 +10,19 @@ No API keys required.
 
 ---
 
+## Open in Google Colab
+
+Click any badge below to launch the notebook directly in your browser — no install required:
+
+| Notebook | Open in Colab |
+|----------|---------------|
+| 01 — Component-Level Evaluation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MayssaHH/AI_Agent_Eval/blob/main/evaluating-ai-agents-hands-on/notebooks/01_component_evaluation.ipynb) |
+| 02 — Trajectory Evaluation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MayssaHH/AI_Agent_Eval/blob/main/evaluating-ai-agents-hands-on/notebooks/02_trajectory_evaluation.ipynb) |
+| 03 — Outcome Evaluation & LLM-as-Judge | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MayssaHH/AI_Agent_Eval/blob/main/evaluating-ai-agents-hands-on/notebooks/03_outcome_evaluation_llm_judge.ipynb) |
+| 04 — Adversarial Evaluation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MayssaHH/AI_Agent_Eval/blob/main/evaluating-ai-agents-hands-on/notebooks/04_adversarial_evaluation.ipynb) |
+
+---
+
 ## Repository Structure
 
 ```
